@@ -6,11 +6,14 @@ Esse projeto implementa uma classe Banco que simula uma conta bancária. As func
 Atributos:
 saldo: saldo da conta.
 contadorConsultas: número de consultas de saldo.
+
 Métodos:
 Banco(double saldoInicial): construtor que inicializa o saldo (não pode ser negativo).
 deposito(double valor): realiza um depósito, aplicando uma taxa de 1%.
+
 saque(double valor): realiza um saque, aplicando uma taxa de 0,5% e verifica saldo suficiente.
 consultaSaldo(): retorna o saldo e desconta 0,10 a cada cinco consultas.
+
 getSaldo(): retorna o saldo atual.
 
 📋 Pré-requisitos Visual Studio + extensões do Java
