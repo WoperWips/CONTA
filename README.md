@@ -1,4 +1,4 @@
-Metodos:Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação orientada objeto.
+Conta:Nesse reprositorio foi feito com o intuito de auxiliar logica de progamação orientada objeto.
 
 🚀 Começando
 Esse projeto implementa uma classe Banco que simula uma conta bancária. As funcionalidades incluem:
