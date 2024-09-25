@@ -24,4 +24,4 @@ getSaldo(): retorna o saldo atual.
 
 📌 Versão Versão 1.0
 
-✒️ Autores Herick Marlon - Trabalho Inicial - Metodos
+✒️ Autores Herick Marlon - Trabalho Inicial - Conta
